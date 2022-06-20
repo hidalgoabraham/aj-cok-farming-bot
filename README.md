@@ -1,9 +1,12 @@
 ## Description
 A farming bot for Clash Of Kings game, based on [OpenCV](https://opencv.org/) (computer vision), [PyTesseract](https://pypi.org/project/pytesseract/) and touches on screen through [pure-python-adb](https://pypi.org/project/pure-python-adb/).
 
-## Author
+## Authors
 **Abraham Hidalgo**
 * [LinkedIn](https://www.linkedin.com/in/hidalgoabraham/)
+
+**Aaron Hidalgo**
+* [LinkedIn](https://www.linkedin.com/in/aaron-jose-hidalgo-s-6033b8242/)
 
 ## Screenshots
 
@@ -27,8 +30,8 @@ How to use: To open de game, you can either connect your android device via USB 
 Download the file [AjCokFarmingBot_Installer.exe](https://www.mediafire.com/file/5ubwfjo4rzrcawh/AjCokFarmingBot_Installer.exe/file) and execute it.
 
 Follow the typical install menu:
-
 <br />
+
 ![App Screenshot](./install.png)
 <br />
 <br />
@@ -36,8 +39,8 @@ Follow the typical install menu:
 <br />
 
 Open the file AjCokFarmingBot.exe as administrator:
-
 <br />
+
 ![App Screenshot](./run_as_admin.png)
 <br />
 <br />
@@ -45,8 +48,8 @@ Open the file AjCokFarmingBot.exe as administrator:
 <br />
 
 For the first time you will need to bind your device (your PC) by entering the Activation Token and the License Key. To buy a monthly subscription, write an email to contact.cokfarmingbot@gmail.com, ahidalgo3@uc.edu.ve or aj.hidalgo2310@gmail.com.
-
 <br />
+
 ![App Screenshot](./activation.png)
 <br />
 <br />
